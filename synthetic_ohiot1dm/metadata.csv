@@ -1,0 +1,13 @@
+id,gender,age_range,pump,band,cohort,train_records,test_records
+540,male,20-40,630G,Empatica,2020,11947,2884
+544,male,40-60,530G,Empatica,2020,10623,2704
+552,male,20-40,630G,Empatica,2020,9080,2352
+567,female,20-40,630G,Empatica,2020,10858,2377
+584,male,40-60,530G,Empatica,2020,12150,2653
+596,male,60-80,530G,Empatica,2020,10877,2731
+559,female,40-60,530G,Basis,2018,10796,2514
+563,male,40-60,530G,Basis,2018,12124,2570
+570,male,40-60,530G,Basis,2018,10982,2745
+575,female,40-60,530G,Basis,2018,11866,2590
+588,female,40-60,530G,Basis,2018,12640,2791
+591,female,40-60,530G,Basis,2018,10847,2760
